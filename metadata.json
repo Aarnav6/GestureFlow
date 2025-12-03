@@ -1,0 +1,8 @@
+{
+  "name": "Gesture Flow 3D",
+  "description": "A futuristic 3D modeling environment controlled by hand gestures and AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
